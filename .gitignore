@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+
+# Mac files
+._*
+.DS*
