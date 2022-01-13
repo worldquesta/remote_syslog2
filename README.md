@@ -1,5 +1,5 @@
 # remote_syslog
-## _OpernRC startup script for multilog_
+## _OpenRC startup script for multilog_
 ## Installation
 Download latest stable version  **remote_syslog**
 [Latest stable version remote_syslog](https://github.com/papertrail/remote_syslog2/releases)
